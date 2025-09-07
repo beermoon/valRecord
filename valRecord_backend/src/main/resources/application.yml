@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    default: stub
+server:
+  port: 8080
